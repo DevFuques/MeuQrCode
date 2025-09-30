@@ -14,7 +14,7 @@ O programa utiliza **Tkinter** para a interface gráfica e salva os QR Codes em 
 
 - Interface gráfica intuitiva usando Tkinter.
 - Permite gerar QR Codes a partir de qualquer texto ou URL.
-- Salva os QR Codes automaticamente na pasta `Meus_QR_Codes`.
+- Salva os QR Codes automaticamente na pasta `Meus_QR_Codes` que é criada automaticamente quando o programa é iniciado.
 - Suporte a placeholders nos campos de entrada.
 - Feedback visual para sucesso ou erro na geração.
 
