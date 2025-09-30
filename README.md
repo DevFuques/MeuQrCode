@@ -2,7 +2,8 @@
 <img width="920" height="300" alt="meuQRcode" src="https://github.com/user-attachments/assets/efa820e4-2456-475c-8c17-c4408038b645" />
 </p>
 
-# MeuQR Code - O seu geraados de QR Codes simples e facíl de usar
+# MeuQR Code - O seu gerador de QR Codes simples e fácil de usar
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 Um aplicativo simples em **Python** para gerar QR Codes a partir de textos ou links.  
 O programa utiliza **Tkinter** para a interface gráfica e salva os QR Codes em uma pasta dedicada.
