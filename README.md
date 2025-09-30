@@ -22,13 +22,6 @@ O programa utiliza **Tkinter** para a interface gráfica e salva os QR Codes em 
 
 ---
 
-## 📂 Estrutura do projeto
-<p align= "center">
-<img width="355" height="191" alt="image" src="https://github.com/user-attachments/assets/3895d31a-e831-4736-8a40-a632f9e29e9e" />
-</p>
-
----
-
 ## ⚙️ Requisitos
 
 - Python 3.8+
