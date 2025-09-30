@@ -42,7 +42,7 @@ pip install qrcode[pil]
 
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/meuqr-code.git
+git clone https://github.com/DevFuques/meuqr-code.git
 ```
 2️⃣ Instale a biblioteca necessária:
 ```bash
