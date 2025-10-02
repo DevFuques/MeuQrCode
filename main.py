@@ -1,7 +1,12 @@
 import os
-import qrcode
 import tkinter as tk
 from tkinter import PhotoImage, messagebox
+
+try:
+    import qrcode
+
+except ImportError:
+    raise("❌ Nenhuma biblioteca qrcode encontrada! Instale com: pip install qrcode ou pip install -r requirements.txt")
 
 caminho_base = os.path.dirname(__file__)
 
